@@ -1,0 +1,15 @@
+[i:5] Melee is ranged [i:5]
+
+this mod turns melee weapon into throwable boomerang ranged weapon
+
+very fun mod
+
+Changelog
+
+v.0.2 [ icon update ]
+- added icon
+- now works with tools
+- now works with melee projectiles
+
+v.0.1 [ release ]
+- Initial release

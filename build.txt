@@ -1,0 +1,3 @@
+displayName = Melee is ranged
+author = Lasthue
+version = 0.1.1
